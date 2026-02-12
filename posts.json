@@ -1,13 +1,5 @@
 [
     {
-        "id": "hellow-to-all-of-you-this-is-test-121918",
-        "title": "hellow to all of you this is test",
-        "content": "del",
-        "excerpt": "del...",
-        "date": "2026-02-12",
-        "category": "Tech"
-    },
-    {
         "id": "welcome-to-my-blog",
         "title": "Welcome to My Blog",
         "content": "<p>Welcome to my blog! I'm excited to share my journey and insights with you.</p><p>This blog will feature articles about:</p><ul><li>Web Development</li><li>Programming Tutorials</li><li>Tech Reviews</li><li>Lifestyle Tips</li></ul><p>Stay tuned for more content!</p>",
