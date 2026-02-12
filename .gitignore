@@ -1,0 +1,6 @@
+# Images directory
+images/
+
+# OS files
+.DS_Store
+Thumbs.db
